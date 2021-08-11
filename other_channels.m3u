@@ -1,9 +1,9 @@
 
-#EXTINF:-1, Cancao Nova Portugal
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://eventos.cancaonova.pt/wp-content/uploads/2019/07/logoblue2.png" tvg-id="", TV Canção Nova Portugal
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
 
-#EXTINF:-1, Rede Século 21
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://csprojetos.com/wp-content/uploads/2017/12/CS_MKT_TV-Sec-21C-01_Mar_2016_V03.png" tvg-id="", Rede Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
-#EXTINF:-1, Padre Pio TV
+#EXTINF:-1 group-title="Italy" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-padre-pio-tv-6268.jpg" tvg-id="", Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1774584740.m3u8
