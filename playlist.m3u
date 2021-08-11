@@ -31,3 +31,5 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628696975/ei/L
 
 #EXTINF:-1 group-title="France" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/tv-lourdes.jpg" tvg-id="", TV Lourdes
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628696975/ei/L50TYbrbIM7Q8wS4pJWYCg/ip/13.77.85.177/id/5uBdieVitcM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgLiww8gm0jfZIiF-bCSXLsh2BbvKS8GpKQ0-7NHdyj94CIQCw908qj647EY_-pzu7RTmdOjaGrO6R_Ow-YvDz-TVUuA%3D%3D/file/index.m3u8
+#EXTINF:-1, Cancao Nova
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
