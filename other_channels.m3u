@@ -8,14 +8,17 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1 group-title="Italy" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-padre-pio-tv-6268.jpg" tvg-id="", Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1774584740.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BRA - CANCAO NOVA" tvg-logo="" group-title="RELIGIOSOS",BRA - CANCAO NOVA 97
-http://pv.zorronet1.com:8000/live/afk75zxw/xP78nms89/1468.m3u8
-
-#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="http://i67.tinypic.com/fdfre1.png", Canção Nova HD 98
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/zJSUbTM.png",Canção Nova 99
-https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8
-
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://s3.amazonaws.com/pt-bm-images/company_images/2692/logo/2692_logo_original.png",SANTUÁRIO DE FÁTIMA
 http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Fatima" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="PORTUGAL",TV Fatima
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Cancao Nova FHD
+http://pfsv.io:80/zdepST49/c45E/49112
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Cancao Nova HD
+http://pfsv.io:80/zdepST49/c45E/33379
+
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Religiosos",Cancao Nova SD
+http://pfsv.io:80/zdepST49/c45E/552
