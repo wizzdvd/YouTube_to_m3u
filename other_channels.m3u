@@ -13,12 +13,3 @@ http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Fatima" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="PORTUGAL",TV Fatima
 https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Cancao Nova FHD
-http://pfsv.io:80/zdepST49/c45E/49112
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Cancao Nova HD
-http://pfsv.io:80/zdepST49/c45E/33379
-
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Religiosos",Cancao Nova SD
-http://pfsv.io:80/zdepST49/c45E/552
