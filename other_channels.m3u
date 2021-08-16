@@ -7,3 +7,6 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Italy" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-padre-pio-tv-6268.jpg" tvg-id="", Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1774584740.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA - CANCAO NOVA" tvg-logo="" group-title="RELIGIOSOS",BRA - CANCAO NOVA
+http://pv.zorronet1.com:8000/live/afk75zxw/xP78nms89/1468.ts
