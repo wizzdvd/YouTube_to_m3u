@@ -9,4 +9,7 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1774584740.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BRA - CANCAO NOVA" tvg-logo="" group-title="RELIGIOSOS",BRA - CANCAO NOVA
-http://pv.zorronet1.com:8000/live/afk75zxw/xP78nms89/1468.ts
+http://pv.zorronet1.com:8000/live/afk75zxw/xP78nms89/1468.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="http://i67.tinypic.com/fdfre1.png", Canção Nova HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
