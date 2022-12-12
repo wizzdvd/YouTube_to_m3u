@@ -12,13 +12,13 @@
 
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xt93vwsybjjp.png" tvg-id="", TV Canção Nova Brazil
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670831256/ei/N4iWY6-YNLOAsfIP1aGr4AI/ip/20.66.108.99/id/BEh27ZhA374.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgRU3TSMj7D4PZTXF9U-ZBGaSZuGwlb1Y0EaadN-HzDrQCIB6zZM9VkIbnyE-AuD4jJcSzrOTjH0Q5haE-92B5ZyMD/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://www.fatima.pt/img/upload/maio/medium/2018-05-12_Monograma_1.jpg" tvg-id="", Santuário de Fátima
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://www.a12.com/source/files/originals/logo-15-anos-200px-998013.svg" tvg-id="", TV Aparecida - AO VIVO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670831256/ei/OIiWY4X0K42tkgaqy5HoCQ/ip/20.66.108.99/id/1KIucmaYkmU.11/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcOJ_3xRG6SsLu0EfIU45AhSIvX1wyAtV-AqzEwzDIEMCIHmQYboxpHSfYe2v7EFCsha3q0_ucT3yVgmgCgR8abUb/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670840682/ei/Cq2WY7ugCfyI_9EPyeKk2Aw/ip/20.172.200.234/id/1KIucmaYkmU.11/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgctqMPd8WvsByDqTwJShEkpATs5S7uai2z5wIoETP9y0CIQDL1scwsK3wxRIlnLd-L73SH0CW3n64SAAwC2k-M7EDjA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://canaismax.com/img/canais/assistir-rede-vida-ao-vivo.jpg" tvg-id="", REDEVIDA AO VIVO 24 Horas
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -27,4 +27,4 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="France" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/tv-lourdes.jpg" tvg-id="", TV Lourdes
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670831261/ei/PYiWY-GuFNCjkwaYurLgBQ/ip/20.66.108.99/id/ZReA8kkvLG0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALYUoAn9JrW_W7JuTcoWJoeQWAzZ6XmUsSZXuqZFmqsPAiBxDYSl0iWTzl92u3YcgeaJPhS28iLBSmPRfC02W3qELw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670840683/ei/C62WY8uaFNjAhwba9buABA/ip/20.172.200.234/id/ZReA8kkvLG0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgF9XaTG0udUBZfDLKzHvLdSzGmCUpKq6wdnglf6YDcwkCIEdvTYt6uM5t9wsJWHCInlnHedWDOKi1x8Q6LNqT9XNO/file/index.m3u8
