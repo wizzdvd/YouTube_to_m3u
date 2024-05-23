@@ -12,22 +12,22 @@
 
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xt93vwsybjjp.png" tvg-id="", TV Canção Nova Brazil
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716459734/ei/dcROZrLDPJ-1kucPstWjmAY/ip/20.55.86.188/id/HPeOcSfDrKo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZPYmIH1PZlCoQk9yOuPNFC77fHXHyP9y7MKB15tTibYCIFLcdnQdBywF4Dn7KAyMsH0JhGsJyCjtpEBK00MkFpL2/file/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://www.fatima.pt/img/upload/maio/medium/2018-05-12_Monograma_1.jpg" tvg-id="", Santuário de Fátima
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716459734/ei/dsROZvLQJ56AkucP2t-56AY/ip/20.55.86.188/id/WkhCfPPgqWc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWZEYDnXlpmqbsQITS6CXmSk2UlpaI0fAsYR7ES1UTqICIQDmVOIKltP6UOFh9aS3ofiTxae1cZn2Q3BQAuPg9rIXyw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://www.a12.com/source/files/originals/logo-15-anos-200px-998013.svg" tvg-id="", TV Aparecida - AO VIVO
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716459735/ei/d8ROZpWbDNiIkucPivmvoAw/ip/20.55.86.188/id/ha-Ag0lQmN0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPZebhYRBbdrlFGZVELNOefcIcP26RohqMK8QC3KUQOYCIQC3CXRgt3og-DMZICtdC_T6GNOKqiCzHautibjoeScHBA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://canaismax.com/img/canais/assistir-rede-vida-ao-vivo.jpg" tvg-id="", REDEVIDA AO VIVO 24 Horas
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://i.pinimg.com/236x/63/cc/50/63cc500d24ab52f9ea05619ad78ae3c0--laser-twitter.jpg" tvg-id="", ADORAÇÃO AO SANTÍSSIMO SACRAMENTO AO VIVO
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716459736/ei/eMROZvyUCpq0kucP94SgkAg/ip/20.55.86.188/id/ajVm1-btaYU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ3KYOeMBCS7Uq1lXMxM-AXp1s_Ugln4UaUrQepJptLjAiEAqk7PbvwFf-jepkpTm_jSp--IWVL_j8gvCv6OCF9HnkA%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="France" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/tv-lourdes.jpg" tvg-id="", TV Lourdes
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716459736/ei/eMROZsnVNMezkucPrNKtoAI/ip/20.55.86.188/id/smCojiGkYeg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIga4qN8RqZNgKX5-IY0gc2aYnfWNmuONqggjyrcG-IwggCIGFeAJMXC9FouMwpy_XB5lDCUFYX8slKn2xf9I9Iyhn0/file/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://eventos.cancaonova.pt/wp-content/uploads/2019/07/logoblue2.png" tvg-id="", TV Canção Nova Portugal
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
